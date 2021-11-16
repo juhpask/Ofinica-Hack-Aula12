@@ -46,7 +46,6 @@ public class exer02 {
             } 
         } while (!infoValida);
         */
-        
     }
 
 }

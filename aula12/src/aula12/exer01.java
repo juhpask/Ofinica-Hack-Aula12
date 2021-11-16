@@ -37,7 +37,6 @@ public class exer01 {
         } while (!notaValida);*/
         
         scan.close();
-    
     }
     
 }
